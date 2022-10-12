@@ -1513,7 +1513,8 @@
 216.58.204.202	android.googleapis.com
 172.217.168.202	ajax.googleapis.com
 108.177.127.201	fonts.googleapis.com
-172.217.168.202	translation.googleapis.com
+172.217.5.138	translation.googleapis.com
+172.217.5.139	translation.googleapis.com.hk
 172.217.168.202	appinvite-pa.googleapis.com
 172.217.168.202	appinvite-ipv4-pa.googleapis.com
 172.217.168.202	redirector-bigcache.googleapis.com
